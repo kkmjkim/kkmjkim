@@ -33,7 +33,8 @@
 |2020.07 - 2020.08|Pose Estimation Game|Code|
 
 
-
+### ✉️ Contact:
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kkmjkim1528@gmail.com)](mailto:kkmjkim1528@gmail.com)
 
 <!--
 **kkmjkim/kkmjkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
