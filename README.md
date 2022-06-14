@@ -16,7 +16,7 @@
 
 ### 📚 Education: 
 
-- 2018.03 - : Computer Engineering, Sungshin Women's University
+- 2018.03 - 2022.08 : B.S in Computer Engineering, Sungshin Women's University
 
 ### 👫 Activity:
 
@@ -26,7 +26,7 @@
 
 |Period|Title|Code|
 |---|:---:|:---:|
-|2022.01 - Current|EasyBART(Extractive & Abstractive SummarY BART)|[Code](https://github.com/kkmjkim/EasyBART)|
+|2022.01 - 2022.04|EasyBART(Extractive & Abstractive SummarY BART)|[Code](https://github.com/kkmjkim/EasyBART)|
 |2021.10|Open-Domain Question Answering|[Code](https://github.com/kkmjkim/mrc-level2-nlp-05)|
 |2021.09|Relation Extraction|[Code](https://github.com/kkmjkim/klue-level2-nlp-05)|
 |2021.08|Image Classification|[Code](https://github.com/kkmjkim/image-classification-level1-02)|
