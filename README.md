@@ -16,7 +16,8 @@
 
 ### 📚 Education: 
 
-- 2018.03 - 2022.08 : B.S in Computer Engineering, Sungshin Women's University
+- 2022.09 - Present : M.S. in Artificial Intelligence, Yonsei University
+- 2018.03 - 2022.08 : B.S. in Computer Engineering, Sungshin Women's University
 
 ### 👫 Activity:
 
