@@ -36,7 +36,7 @@
 
 ### ✉️ Contact:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minjin.kim@yonsei.ac.kr)](mailto:minjin.kim@yonsei.ac.kr)
-
+[![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/minjin-kim-035367260/)](https://www.linkedin.com/in/minjin-kim-035367260/)
 <!--
 **kkmjkim/kkmjkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
