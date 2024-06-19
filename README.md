@@ -1,6 +1,5 @@
 <div align=center>
-👩🏻‍💻 I am majoring in Computer Engineering.<br>
-🙋🏻‍♀️ I am interested in Natural Language Processing!
+👩🏻‍💻 I am an AI researcher interested in NLP, especially conversational agents, large language models, and personalized agents.<br>
 
 ### 💻 Tech Stack 
 
@@ -18,6 +17,20 @@
 
 - 2022.09 - Present : M.S. in Artificial Intelligence, Yonsei University
 - 2018.03 - 2022.08 : B.S. in Computer Engineering, Sungshin Women's University
+
+### 📄 Publications:
+- **Pearl: A Review-driven Persona-Knowledge Grounded Conversational Recommendation Dataset**
+</br>**Minjin Kim***, Minju Kim*, Hana Kim, Beong-woo Kwak, Soyeon Chun, Hyunseo Kim, SeongKu Kang, Youngjae Yu, Jinyoung Yeo, Dongha Lee
+</br>[paper][code]
+- **Dialogue chain-of-thought distillation for commonsense-aware conversational agents**
+</br>Hyungjoo Chae*, Yongho Song*, Kai Tzu-iunn Ong, Taeyoon Kwon, **Minjin Kim**, Youngjae Yu, Dongha Lee, Dongyeop Kang, Jinyoung Yeo
+</br>[paper][code]
+- **Evidence-empowered transfer learning for Alzheimer’s disease**
+</br>Kai Tzu-iunn Ong*, Hana Kim*, **Minjin Kim**, Jinseong Jang, Beomseok Sohn, Yoon Seong Choi, Dosik Hwang, Seong Jae Hwang, Jinyoung Yeo
+</br>[paper][code]
+- **TUTORING: instruction-grounded conversational agent for language learners**
+</br>Hyungjoo Chae, **Minjin Kim**, Chaehyeong Kim, Wonseok Jeong, Hyejoong Kim, Junmyung Lee, Jinyoung Yeo
+</br>[paper][code]
 
 ### 👫 Activity:
 
