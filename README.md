@@ -1,17 +1,13 @@
 ### 📚 Education: 
 
-- 2022.09 - 2025.02 : M.S. in Artificial Intelligence, Yonsei University (Lab: [Language & AGI Lab](https://langlab.yonsei.ac.kr/))
-- 2018.03 - 2022.08 : B.S. in Computer Engineering, Sungshin Women's University
+- 2022.09 - 2025.02 : 연세대학교 인공지능학과 석사 졸업 (연구실: [Language & AGI Lab](https://langlab.yonsei.ac.kr/))
+- 2018.03 - 2022.08 : 성신여자대학교 컴퓨터공학과 졸업
 
 ### 📄 Publications:
 - **LLM Meets Scene Graph: Can Large Language Models Understand and Generate Scene Graphs? A Benchmark and Empirical Study** 
 </br> Dongil Yang, **Minjin Kim**, Sunghwan Kim, Beong-woo Kwak, Minjun Park, Jinseok Hong, Woontack Woo, Jinyoung Yeo†
 </br> (under ARR 2025 Feb. review cycle) ACL 2025
 </br>_[paper][[benchmark](https://tsg-bench.netlify.app/)]_
-
-- **YA-TA: Towards Personalized Question-Answering Teaching Assistants using Instructor-Student Dual Retrieval-augmented Knowledge Fusion**
-</br> Dongil Yang*, Suyeon Lee*, **Minjin Kim**, Jungsoo Won, Namyoung Kim, Dongha Lee†, Jinyoung Yeo†
-</br>_[[paper](https://arxiv.org/abs/2409.00355)][[article](https://www.newstheai.com/news/articleView.html?idxno=5639)]_
 
 - **Pearl: A Review-driven Persona-Knowledge Grounded Conversational Recommendation Dataset**
 </br>**Minjin Kim***, Minju Kim*, Hana Kim, Beong-woo Kwak, Soyeon Chun, Hyunseo Kim, SeongKu Kang, Youngjae Yu, Jinyoung Yeo, Dongha Lee†
@@ -20,7 +16,11 @@
 
 <details>
   <summary>More publications..</summary>
-    
+  
+- **YA-TA: Towards Personalized Question-Answering Teaching Assistants using Instructor-Student Dual Retrieval-augmented Knowledge Fusion**
+</br> Dongil Yang*, Suyeon Lee*, **Minjin Kim**, Jungsoo Won, Namyoung Kim, Dongha Lee†, Jinyoung Yeo†
+</br>_[[paper](https://arxiv.org/abs/2409.00355)][[article](https://www.newstheai.com/news/articleView.html?idxno=5639)]_
+
 - **Dialogue chain-of-thought distillation for commonsense-aware conversational agents**
 </br>Hyungjoo Chae*, Yongho Song*, Kai Tzu-iunn Ong, Taeyoon Kwon, **Minjin Kim**, Youngjae Yu, Dongha Lee, Dongyeop Kang, Jinyoung Yeo†
 </br>EMNLP 2023
