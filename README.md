@@ -6,7 +6,7 @@
 ### 📄 Publications:
 - **LLM Meets Scene Graph: Can Large Language Models Understand and Generate Scene Graphs? A Benchmark and Empirical Study** 
 </br> Dongil Yang, **Minjin Kim**, Sunghwan Kim, Beong-woo Kwak, Minjun Park, Jinseok Hong, Woontack Woo, Jinyoung Yeo†
-</br> (under ARR 2025 Feb. review cycle) ACL 2025
+</br> ACL 2025
 </br>_[paper][[benchmark](https://tsg-bench.netlify.app/)]_
 
 - **Pearl: A Review-driven Persona-Knowledge Grounded Conversational Recommendation Dataset**
