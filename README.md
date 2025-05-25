@@ -4,6 +4,11 @@
 - 2018.03 - 2022.08 : 성신여자대학교 컴퓨터공학과 졸업
 
 ### 📄 Publications:
+- **Web-Shepherd: Advancing PRMs for Reinforcing Web Agents**
+</br> Hyungjoo Chae*, Sunghwan Kim*, Junhee Cho*, Seungone Kim, Seungjun Moon, Gyeom Hwangbo, Dongha Lim, **Minjin Kim**, Yeonjun Hwang, Minju Gwak, Dongwook Choi, Minseok Kang, Gwanhoon Im, ByeongUng Cho, Hyojun Kim, Jun Hee Han, Taeyoon Kwon, Minju Kim, Beong-woo Kwak, Dongjin Kang, Jinyoung Yeo
+</br> arxiv 2025
+</br>_[[paper](https://arxiv.org/abs/2505.15277)]_
+
 - **LLM Meets Scene Graph: Can Large Language Models Understand and Generate Scene Graphs? A Benchmark and Empirical Study** 
 </br> Dongil Yang, **Minjin Kim**, Sunghwan Kim, Beong-woo Kwak, Minjun Park, Jinseok Hong, Woontack Woo, Jinyoung Yeo†
 </br> ACL 2025
